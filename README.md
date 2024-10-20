@@ -1,6 +1,6 @@
 <h3>⚡ Allan Oguis </h3>
 
-`Web Developer | SEO Specialist | Design Enthusiast`
+`Web Developer` | `SEO Specialist` | `Design Enthusiast`
 
 <h4>💎 Stats </h4>
 
