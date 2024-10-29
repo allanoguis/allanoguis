@@ -4,7 +4,7 @@
 
 <h4>💎 Stats </h4>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=allanoguis&hide_border=true&show_icons=true&bg_color=00000000&title_color=00FF02&text_color=00A001) &nbsp; &nbsp; &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=allanoguis&theme=codestackr&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CSat&card_width=500&background=00000000&border=EB5454&ring=00A001&stroke=00FF02&currStreakNum=00FF02&currStreakLabel=00FF02&dates=00A001&fire=00FF02&sideNums=00FF02&sideLabels=00A001)](https://git.io/streak-stats)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=allanoguis&hide_border=true&show_icons=true&bg_color=00000000&title_color=00FF02&text_color=00A001&icon_color=00FF02) &nbsp; &nbsp; &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=allanoguis&theme=codestackr&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CSat&card_width=500&background=00000000&border=EB5454&ring=00A001&stroke=00FF02&currStreakNum=00FF02&currStreakLabel=00FF02&dates=00A001&fire=00FF02&sideNums=00FF02&sideLabels=00A001)](https://git.io/streak-stats)
 
 #### 👾 Hacktoberfest
 
